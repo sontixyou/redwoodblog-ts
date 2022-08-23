@@ -1,5 +1,9 @@
 # 起動方法
 
 ```sh
-yarn rw dev
+# サーバー起動
+$ yarn rw dev
+
+# データベース起動
+$ yarn rw prisma studio
 ```
